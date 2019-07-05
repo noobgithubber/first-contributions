@@ -70,6 +70,7 @@ Cody Dullard
 - [Heidi Chang] (https://github.com/heidandseek)
 - [Jorene Ng] (https://github.com/joreneng)
 - [Harith Sankalpa] (https://github.com/harith96)
+- [NoobGitHubber] (https://github.com/noobGitHubber)
 - [Archie Lewis] (https://github.com/acl76)
 - [Arshitha Basavaraj](https://github.com/Arshitha)
 - [Shubham Gandhi](https://github.com/aiBotShubham)
